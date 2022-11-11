@@ -1,4 +1,4 @@
-# UM Confirm email address at Registration
+# Ultimate Member Confirm email address at Registration
 Addition of a second textbox field for email address confirmation.
 ## Installation ##
 Install the code snippet <code>source.php</code> to your active theme's functions.php file or use the "Code Snippets" plugin.
